@@ -1,4 +1,4 @@
-For dataset preprocessing (e.g., Amazon-Electronics), we can run process_electronics.py in the dataset_preprocessing file as follows:
+For dataset preprocessing (e.g., Amazon-Electronics) in next-basket recommendation, we can run process_electronics.py in the dataset_preprocessing file as follows:
 
 `python process_electronics.py --user_k 10 --item_k 10 --gpu_id 0`
 
